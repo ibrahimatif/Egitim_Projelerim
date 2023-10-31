@@ -1,0 +1,89 @@
+A51 MACRO ASSEMBLER  KOD                                                                  08/28/2020 19:41:37 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\kod.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE kod.asm SET(SMALL) DEBUG PRINT(.\Listings\kod.lst) OBJECT(.\Objects\kod
+                      .obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     org 0000h
+0000 802E              2     sjmp BASLA
+000B                   3     ORG 000Bh
+000B 8070              4     SJMP ZAMANLAYICI
+0030                   5     org 0030h
+0030                   6             BASLA:
+0030 309009            7             JNB P1.0, TIMER
+0033 75A000            8             MOV P2,#00h
+0036 7400              9             MOV A,#00h
+0038 C297             10             CLR P1.7
+003A 80F4             11             SJMP BASLA
+                      12             
+003C                  13             TIMER:
+003C 7010             14             JNZ YAK
+003E D2AF             15             SETB EA
+0040 D2A9             16             SETB ET0
+0042 D28C             17             SETB TR0
+0044 758CF0           18             MOV TH0,#0F0h
+0047 758901           19             MOV TMOD,#01h
+004A 7F0F             20             MOV R7,#0Fh
+004C 7401             21             MOV A,#01h
+                      22             
+004E                  23             YAK:
+004E 75A000           24             MOV P2,#00h     
+0051 758000           25             MOV P0,#00h
+0054 75A088           26             MOV P2,#88h
+0057 75A088           27             MOV P2,#88h
+005A 75A000           28             MOV P2,#00h
+005D 758001           29             MOV P0,#01h
+0060 75A03E           30             MOV P2,#3Eh
+0063 75A03E           31             MOV P2,#3Eh
+0066 75A000           32             MOV P2,#00h
+0069 758002           33             MOV P0,#02h
+006C 75A0AE           34             MOV P2,#0AEh
+006F 75A0AE           35             MOV P2,#0AEh
+0072 75A000           36             MOV P2,#00h
+0075 758003           37             MOV P0,#03h
+0078 75A038           38             MOV P2,#38h
+007B 80B3             39             SJMP basla
+007D                  40             ZAMANLAYICI:
+007D C28D             41             CLR TF0
+007F DF05             42             DJNZ R7,PORTTERS
+0081 7400             43             MOV A,#00h
+0083 B297             44             CPL P1.7
+0085 32               45             RETI
+0086                  46             PORTTERS:
+0086 32               47             RETI
+0087 B297             48             CPL P1.7
+                      49             
+                      50             
+                      51             END
+A51 MACRO ASSEMBLER  KOD                                                                  08/28/2020 19:41:37 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+BASLA. . . . . . .  C ADDR   0030H   A   
+EA . . . . . . . .  B ADDR   00A8H.7 A   
+ET0. . . . . . . .  B ADDR   00A8H.1 A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+PORTTERS . . . . .  C ADDR   0086H   A   
+TF0. . . . . . . .  B ADDR   0088H.5 A   
+TH0. . . . . . . .  D ADDR   008CH   A   
+TIMER. . . . . . .  C ADDR   003CH   A   
+TMOD . . . . . . .  D ADDR   0089H   A   
+TR0. . . . . . . .  B ADDR   0088H.4 A   
+YAK. . . . . . . .  C ADDR   004EH   A   
+ZAMANLAYICI. . . .  C ADDR   007DH   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

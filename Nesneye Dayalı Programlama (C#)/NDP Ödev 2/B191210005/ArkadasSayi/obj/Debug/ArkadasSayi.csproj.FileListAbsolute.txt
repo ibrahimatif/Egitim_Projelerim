@@ -1,0 +1,19 @@
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.exe.config
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.exe
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.pdb
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.csprojAssemblyReference.cache
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.Form1.resources
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.Properties.Resources.resources
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.csproj.GenerateResource.cache
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.exe
+C:\Users\Canan Kuru\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.pdb
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.exe.config
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.exe
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\bin\Debug\ArkadasSayi.pdb
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.Form1.resources
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.Properties.Resources.resources
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.exe
+C:\Users\ibrah\source\repos\ArkadasSayi\ArkadasSayi\obj\Debug\ArkadasSayi.pdb

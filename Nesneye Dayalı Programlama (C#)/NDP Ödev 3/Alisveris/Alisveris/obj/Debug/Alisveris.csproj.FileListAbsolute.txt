@@ -1,0 +1,30 @@
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.csprojAssemblyReference.cache
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.Form1.resources
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\ibrah\source\repos\Alisveris\Alisveris\obj\Debug\Alisveris.pdb
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.Form1.resources
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\ibrah\Desktop\Saü\2.Yarıyıl\Nesneye Dayalı Programlama\Ödev 3\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.pdb
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.exe.config
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.exe
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\bin\Debug\Alisveris.pdb
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csprojAssemblyReference.cache
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.Form1.resources
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.Properties.Resources.resources
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.exe
+C:\Users\ibrah\Desktop\b191210005\b191210005\Alisveris\Alisveris\obj\Debug\Alisveris.pdb
